@@ -1,0 +1,70 @@
+================================================================================
+GOOGLE PLAY STORE LISTING DETAILS — MY MONEY MANAGER (JARVIS AI)
+================================================================================
+
+[APP DETAILS]
+Title: My Money Manager - Jarvis AI
+Category: Finance / Personal Finance
+Content Rating: Everyone
+Default Language: English (India) [en-IN]
+
+[SHORT DESCRIPTION] (Limit: 80 characters)
+Smart personal finance assistant: HDFC SMS tracking, voice entries & accounts.
+
+[FULL DESCRIPTION]
+Take total control of your personal finances with My Money Manager, your intelligent, private financial companion featuring the Jarvis AI voice assistant. Built natively for Android with modern Material 3 and Jetpack Compose, this app combines the clean, intuitive simplicity of traditional expense tracking with powerful on-device automation.
+
+Never forget to record a transaction again.
+
+KEY HIGHLIGHTS & CORE CAPABILITIES:
+
+1. AUTOMATIC HDFC BANK SMS DETECTION
+• Instantly detects incoming debit and credit transaction SMS messages from HDFC Bank.
+• Automatically parses merchant/recipient, transaction amount, reference number, and account mode.
+• Converts messages into Pending Drafts so you remain in complete control—approve, edit, or reject before anything touches your real account balance.
+• Fully handles UPI debits, credit card spends, netbanking transfers, and salary credits.
+
+2. JARVIS HANDS-FREE VOICE ASSISTANT
+• Add transactions effortlessly by speaking naturally in English, Hindi, or Gujarati (e.g. "add 100 cash expense", "paid 500 online for dinner", or "pachas rupiya kharch").
+• Continuous Voice-to-Voice Conversation: If any mandatory information is missing, Jarvis speaks back to ask clarification, automatically opens the mic, and lets you answer hands-free.
+• Customizable Bot Persona: Choose between deep tech male, classic male, crisp female, British tech, or device system voices. Adjust tone pitch and speech rate to your exact preference.
+• Quick Speak Launcher Shortcut: 1-tap voice entry right from your Android home screen without having to navigate through app menus.
+
+3. MULTI-ACCOUNT & FUND MANAGEMENT
+• Pre-configured with Online (HDFC) and Cash accounts, with unlimited support for custom fund buckets (Savings, Emergency Fund, Investments, etc.).
+• Complete Account Editing: Edit account names, modify opening/initial balances, customize icons and colors, or delete accounts whenever needed.
+• Internal Fund Transfers: Seamlessly transfer money between accounts with exact ledger tracking without distorting your income or expense analytics.
+• Exact Integer Arithmetic: All currency calculations are stored and computed in paise to eliminate floating-point rounding errors.
+
+4. PENDING DRAFTS QUEUE & COMPLETE EDITING
+• Review every detected transaction before it updates your account balance.
+• Full draft editing: modify amount, income/expense type, account, suggested category, or description with "Save Draft" or "Save & Approve" actions.
+• Dismiss or reject duplicate and non-ledger transactions cleanly.
+
+5. LENDING, BORROWING & DEBT LEDGER
+• Track money lent to friends and money borrowed from contacts.
+• View real-time net receivables and liabilities.
+• Record full or partial repayments with automatic account balance adjustments.
+
+6. DAILY REVIEW REMINDERS AT 9 PM
+• Automated daily reminder at 9:00 PM if unreviewed pending drafts exist.
+• High-priority Android 14+ compatible notifications with quick tap-to-review action.
+• Instant in-app notification test button to verify system permissions immediately.
+
+7. DEEP FINANCIAL ANALYSIS & CHARTS
+• Interactive breakdown of monthly income vs. expenses, net cash flow, and daily spending velocity.
+• Category-wise expense distribution and account balance contributions.
+• Search and filter transactions by date, time period, account, or type.
+
+8. 100% OFFLINE PRIVACY GUARANTEE
+• Zero third-party cloud trackers, zero external database servers, zero third-party bank APIs.
+• All transaction records, contact names, and SMS history remain strictly on your device inside an encrypted SQLite Room database.
+• Works flawlessly with or without an active internet connection.
+
+================================================================================
+ASSETS IN THIS FOLDER:
+- MyMoneyManager.apk : Complete production-signed Android APK
+- icon_512.png : High-resolution 512x512 app icon
+- feature_graphic_1024x500.png : 1024x500 landscape Play Store feature graphic
+- promo_portrait_1080x1920.png : 1080x1920 portrait store showcase graphic
+================================================================================

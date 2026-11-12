@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Jarvis Arc Core - Outer segmented glowing arcs (Royal Electric Blue) -->
+    <path
+        android:strokeColor="#2563EB"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M30,30 A34,34 0 0,1 78,30" />
+    <path
+        android:strokeColor="#2563EB"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M88,54 A34,34 0 0,1 78,78" />
+    <path
+        android:strokeColor="#2563EB"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M78,78 A34,34 0 0,1 30,78" />
+    <path
+        android:strokeColor="#2563EB"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M20,54 A34,34 0 0,1 30,30" />
+
+    <!-- Jarvis Inner Glowing Reactor Circle (Electric Sky Blue) -->
+    <path
+        android:strokeColor="#60A5FA"
+        android:strokeWidth="1.8"
+        android:pathData="M54,29 A25,25 0 1,1 53.99,29 Z" />
+
+    <!-- Jarvis 4 Cardinal Pulse Tech Nodes (Cyan Azure) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,20 A3,3 0 1,1 53.99,20 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,88 A3,3 0 1,1 53.99,88 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M20,54 A3,3 0 1,1 19.99,54 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M88,54 A3,3 0 1,1 87.99,54 Z" />
+
+    <!-- Central Tech Core Glow (Deep Navy Glow) -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,34 A20,20 0 1,1 53.99,34 Z" />
+
+    <!-- Sharp, Sleek Rupee (₹) Symbol inside the Jarvis Core -->
+    <!-- Top Horizontal Bar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,41 h22 v3 h-22 z" />
+    <!-- Second Horizontal Bar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,47 h15 a7.5,7.5 0 0,1 0,15 h-6 l11,14 h-6.5 l-9.5,-12.5 v-4.5 h8.5 a4,4 0 0,0 0,-8 h-19 z" />
+
+    <!-- Diagonal AI Energy Accent (Electric Blue spark) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M61,47 h4 v3 h-4 z" />
+</vector>

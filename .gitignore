@@ -1,0 +1,24 @@
+# .gitignore for Android/Kotlin project
+# Gradle files
+.gradle/
+/build/
+*/build/
+# Local configuration files
+local.properties
+# IDEA files
+.idea/
+*.iml
+# Keystore files
+*.jks
+*.keystore
+# Generated files
+*.apk
+*.apks
+*.aab
+# Log files
+*.log
+# Distribution folder (optional if you want to keep built APKs, you can keep it)
+# distribution/
+# OS files
+.DS_Store
+Thumbs.db
